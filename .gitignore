@@ -1,0 +1,8 @@
+/vacation.sqlite
+/infection.log
+/.phpunit.result.cache
+/vendor/
+.idea
+/coverage.xml
+/clover.xml
+/users-*.csv
