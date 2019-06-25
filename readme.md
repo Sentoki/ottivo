@@ -1,6 +1,6 @@
 # Vacation utility
 
-[![Build Status](https://travis-ci.com/Sentoki/ottivo.svg?branch=master)](https://travis-ci.com/ottivo/projectname)
+[![Build Status](https://travis-ci.com/Sentoki/ottivo.svg?branch=master)](https://travis-ci.com/Sentoki/ottivo)
 
 Coding task
 
